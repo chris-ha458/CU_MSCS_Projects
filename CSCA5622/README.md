@@ -11,9 +11,10 @@ This repository contains the final project for the CSCA5622 course at the Univer
 
 Final/
 │
-├── Deliverable1.ipynb # Main Jupyter Notebook deliverable
+├── Deliverable1.ipynb # Main Jupyter Notebook deliverable 1
 ├── Deliverable1.pdf # PDF version of the Jupyter Notebook
 ├── Deliverable1.html # HTML version of the Jupyter Notebook
+├── Deliverable2.mp4 # Deliverable 2 presentation
 ├── data/ # Directory containing datasets
 │ ├── Thyroid_Diff.csv # original dataset file
 │ └── Thyroid_Diff_Cleaned.csv # cleaned data
