@@ -9,7 +9,7 @@ This repository contains the final project for the CSCA5622 course at the Univer
 - `Deliverable1.html`: An HTML version of the Jupyter Notebook, allowing for interactive viewing in a web browser.
 - `data/`: This folder contains all the datasets used in the project.
 
-<repo_name>/
+Final/
 │
 ├── Deliverable1.ipynb # Main Jupyter Notebook deliverable
 ├── Deliverable1.pdf # PDF version of the Jupyter Notebook
