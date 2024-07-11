@@ -1,4 +1,4 @@
-# Project Title
+# Thyroid Cancer Recurrence Prediction
 
 This repository contains the final project for the CSCA5622 course at the University of Colorado Boulder. Below is a brief explanation of the main deliverables and data organization.
 
